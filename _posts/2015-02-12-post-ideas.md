@@ -17,6 +17,6 @@ Some things here
 # Why was it created?
 
 mongodb timeseries schema and convert to plot
-
 d3 and meteor optimal use
+r integration, forecasting
 
